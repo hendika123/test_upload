@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="nama1">Panjang</string>
+    <string name="nama2">Lebar</string>
+    <string name="nama3">Lebar</string>
 </resources>
